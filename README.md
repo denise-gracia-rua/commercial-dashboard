@@ -14,10 +14,10 @@ Brindar visibilidad clara y accionable sobre el desempeño comercial para mejora
 
 Los equipos comerciales suelen tener:
 
-- Datos dispersos
-- Falta de métricas claras
-- Dificultad para detectar desvíos
-- Decisiones tardías
+* Datos dispersos
+* Falta de métricas claras
+* Dificultad para detectar desvíos
+* Decisiones tardías
 
 ---
 
@@ -25,19 +25,19 @@ Los equipos comerciales suelen tener:
 
 Diseño de un dashboard que centraliza información clave y permite:
 
-- Monitorear performance en tiempo real
-- Detectar oportunidades y problemas
-- Priorizar acciones comerciales
+* Monitorear performance en tiempo real
+* Detectar oportunidades y problemas
+* Priorizar acciones comerciales
 
 ---
 
 ## 📈 KPIs definidos
 
-- Ventas totales
-- Ventas por vendedor
-- Tasa de conversión
-- Ticket promedio
-- Evolución temporal de ventas
+* Ventas totales
+* Ventas por vendedor
+* Tasa de conversión
+* Ticket promedio
+* Evolución temporal de ventas
 
 ---
 
@@ -45,9 +45,9 @@ Diseño de un dashboard que centraliza información clave y permite:
 
 El dashboard está pensado para:
 
-- Simplicidad visual
-- Enfoque en decisiones (no solo datos)
-- Lectura rápida por parte de líderes
+* Simplicidad visual
+* Enfoque en decisiones (no solo datos)
+* Lectura rápida por parte de líderes
 
 ---
 
@@ -60,45 +60,57 @@ El dashboard está pensado para:
 
 ---
 
+## 🖼️ Vista del dashboard
+
+![Dashboard](dashboard-mock.png)
+
+---
+
+## 🚨 Ejemplos de insights
+
+* 🔻 Caída en conversión en los últimos 7 días → revisar proceso comercial
+* ⚠️ Vendedor con bajo rendimiento → oportunidad de coaching
+* 📈 Ticket promedio alto pero menor volumen → posible problema de adquisición
+
+---
+
 ## 🛠️ Herramientas
 
-- Google Sheets
-- Looker Studio / QuickSight
-- SQL (opcional)
+* Google Sheets
+* Looker Studio / QuickSight
+* SQL (opcional)
 
 ---
 
 ## 📊 Impacto esperado
 
-- ✔️ Mejora en la toma de decisiones
-- ✔️ Mayor visibilidad del negocio
-- ✔️ Identificación rápida de problemas
-- ✔️ Alineación del equipo comercial
+* ✔️ Mejora en la toma de decisiones
+* ✔️ Mayor visibilidad del negocio
+* ✔️ Identificación rápida de problemas
+* ✔️ Alineación del equipo comercial
 
 ---
 
 ## 📏 Métricas de éxito
 
-- Frecuencia de uso del dashboard
-- Tiempo de toma de decisiones
-- Mejora en performance comercial
+* Frecuencia de uso del dashboard
+* Tiempo de toma de decisiones
+* Mejora en performance comercial
 
 ---
-
-## 🚧 Próximos pasos
-
-- Automatización de datos
-- Integración con CRM
-- Alertas inteligentes
 
 ## 👩‍💼 Rol del equipo de datos
 
 El equipo de datos no solo construye dashboards, sino que:
 
-- Define métricas alineadas al negocio
-- Acompaña la toma de decisiones
-- Detecta oportunidades de mejora
+* Define métricas alineadas al negocio
+* Acompaña la toma de decisiones
+* Detecta oportunidades de mejora
 
-## 🖼️ Vista del dashboard
+---
 
-![Dashboard](dashboard-mock.png)
+## 🚧 Próximos pasos
+
+* Automatización de datos
+* Integración con CRM
+* Alertas inteligentes
