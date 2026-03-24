@@ -98,3 +98,7 @@ El equipo de datos no solo construye dashboards, sino que:
 - Define métricas alineadas al negocio
 - Acompaña la toma de decisiones
 - Detecta oportunidades de mejora
+
+## 🖼️ Vista del dashboard
+
+![Dashboard](dashboard-mock.png)
